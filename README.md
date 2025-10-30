@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bontonent/bontonent/main/photo_2025-09-23_10-59-44.jpg" alt="Bontonent avatar" height="120" style="border-radius:50%">
-</p>
-
----
-
 ### 🌟 About Me
 
 - I like to **work on myself** and explore new technologies.
