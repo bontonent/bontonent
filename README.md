@@ -37,15 +37,4 @@ Here are my main finished projects. All are open source and easy to read for any
 - Privacy & self-hosted solutions
 - Custom keyboards
 - Automation and web scraping
-
----
-
-<p align="center">
-  <a href="mailto:bontonent@tuta.io"><img src="https://img.shields.io/badge/Email-bontonent@tuta.io-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://t.me/bontonent"><img src="https://img.shields.io/badge/Telegram-@bontonent-2CA5E0?style=for-the-badge&logo=telegram"></a>
-  <a href="https://github.com/bontonent"><img src="https://img.shields.io/badge/GitHub-bontonent-181717?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-<p align="center"><i>Always learning, always building.</i></p>
+- Heavy music
